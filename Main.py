@@ -15,4 +15,6 @@ def send_telegram_message(message):
         print("❌ Telegram send error:", e)
 
 if __name__ == "__main__":
-    send_telegram_message("✅ Telegram is connected to your crypto webhook!")
+    send_telegram_message("✅ Telegram is connected to your crypto webhook!"
+  if __name__ == "__main__":
+    send_telegram_message("✅ Telegram is connected to your crypto webhook!")                      )
